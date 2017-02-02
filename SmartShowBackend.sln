@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartShow.API", "WebApplication1\SmartShow.API.csproj", "{6FDC6A24-7751-4889-BF30-6488F2EFBB9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartShow.DTO", "SmartShow.DTO\SmartShow.DTO.csproj", "{6825CF04-ABBC-440C-9CA5-AEE1006D1C15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartShow.Service", "SmartShow.Service\SmartShow.Service.csproj", "{557902E2-15CF-472F-B736-C96E0C6A9277}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FDC6A24-7751-4889-BF30-6488F2EFBB9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FDC6A24-7751-4889-BF30-6488F2EFBB9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FDC6A24-7751-4889-BF30-6488F2EFBB9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FDC6A24-7751-4889-BF30-6488F2EFBB9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6825CF04-ABBC-440C-9CA5-AEE1006D1C15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6825CF04-ABBC-440C-9CA5-AEE1006D1C15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6825CF04-ABBC-440C-9CA5-AEE1006D1C15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6825CF04-ABBC-440C-9CA5-AEE1006D1C15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{557902E2-15CF-472F-B736-C96E0C6A9277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{557902E2-15CF-472F-B736-C96E0C6A9277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{557902E2-15CF-472F-B736-C96E0C6A9277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{557902E2-15CF-472F-B736-C96E0C6A9277}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
